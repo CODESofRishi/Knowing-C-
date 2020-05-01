@@ -1,0 +1,15 @@
+ABCDE
+Frank
+ABDCE
+Larry
+ABCCA
+Moe
+ACDEA
+Curly
+AACDE
+Michael
+BBDEA
+Rishi
+ABCDE
+Sam
+ABDEE
